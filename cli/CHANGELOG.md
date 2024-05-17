@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.33.2
+
+### Patch Changes
+
+- [#1891](https://github.com/t3-oss/create-t3-app/pull/1891) [`4236f0d`](https://github.com/t3-oss/create-t3-app/commit/4236f0dfa969ff0d8b7ce2a60b5595c43ced9043) Thanks [@thecmdrunner](https://github.com/thecmdrunner)! - Apply drizzle rules for `ctx.db` object in tRPC context
+
 ## 7.33.1
 
 ### Patch Changes
